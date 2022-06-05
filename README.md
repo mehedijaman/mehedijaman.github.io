@@ -1,4 +1,4 @@
-## 👋 Hi there
+## Mehedi Jaman
 
 I am Mehedi Jaman, currently working on Laravel Framework based projects. I am an open source lover and always open to collaborate on projects and innovative ideas. Leave me a message on [![Gmail Badge](https://img.shields.io/badge/-mail4mjaman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail4mjaman@gmail.com)](mailto:mail4mjaman@gmail.com)
 
